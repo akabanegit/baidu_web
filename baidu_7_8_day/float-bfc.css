@@ -1,0 +1,25 @@
+.wrapper {
+    padding: 15px 20px;
+    border: 1px dashed #ff6c60;
+}
+.left {
+    
+    border: 5px solid #ddd;
+}
+.right {
+    width:120px;
+    margin-left: 20px;
+    border: 5px solid #ddd;
+}
+.wrapper-float-bfc{
+    overflow: hidden;
+}
+.wrapper-float-bfc .right{
+    float: right;
+    margin-left: 20px;
+}
+.wrapper-float-bfc .left{
+    overflow: hidden;
+
+    
+}
